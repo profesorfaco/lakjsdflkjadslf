@@ -1,0 +1,327 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 805 600">
+    <rect width="805" height="600" x="0" y="0" fill="#FFFFFF" id="background" />
+    <g transform="translate(10,10)" id="visualization">
+        <g>
+            <rect x="780" y="0" height="6.875" width="5" fill="black"><title>Yeast: 1</title></rect>
+            <rect x="780" y="11.875" height="6.875" width="5" fill="black"><title>Fortified Wine: 1</title></rect>
+            <rect x="780" y="23.75" height="6.875" width="5" fill="black"><title>Aged White Wine: 1</title></rect>
+            <rect x="780" y="35.625" height="6.875" width="5" fill="black"><title>Trichloroanisole: 1</title></rect>
+            <rect x="780" y="47.5" height="6.875" width="5" fill="black"><title>Oxygen: 1</title></rect>
+            <rect x="780" y="59.375" height="6.875" width="5" fill="black"><title>Heat: 1</title></rect>
+            <rect x="780" y="71.25" height="6.875" width="5" fill="black"><title>Brett: 1</title></rect>
+            <rect x="780" y="83.125" height="13.75" width="5" fill="black">
+                <title>Malolactic Fermentation: 2</title>
+            </rect>
+            <rect x="780" y="101.875" height="13.75" width="5" fill="black">
+                <title>Late Harvest / Botrytis: 2</title>
+            </rect>
+            <rect x="780" y="120.625" height="13.75" width="5" fill="black"><title>Volatile Acidity: 2</title></rect>
+            <rect x="780" y="139.375" height="20.625" width="5" fill="black"><title>Mineral: 3</title></rect>
+            <rect x="780" y="165" height="27.5" width="5" fill="black"><title>Aged Red Wine: 4</title></rect>
+            <rect x="780" y="197.5" height="27.5" width="5" fill="black"><title>Sulfides: 4</title></rect>
+            <rect x="780" y="230" height="41.25" width="5" fill="black"><title>Fruits Red Wine: 6</title></rect>
+            <rect x="780" y="276.25" height="61.875" width="5" fill="black"><title>Floral: 9</title></rect>
+            <rect x="780" y="343.125" height="68.75" width="5" fill="black"><title>Vegetal: 10</title></rect>
+            <rect x="780" y="416.875" height="68.75" width="5" fill="black"><title>Oak Aging: 10</title></rect>
+            <rect x="0" y="37.5" height="68.75" width="5" fill="black"><title>Faults: 10</title></rect>
+            <rect x="780" y="490.625" height="89.375" width="5" fill="black"><title>Fruits White Wine: 13</title></rect>
+            <rect x="0" y="111.25" height="165" width="5" fill="black"><title>Bouquet: 24</title></rect>
+            <rect x="0" y="281.25" height="261.25" width="5" fill="black"><title>Aromas: 38</title></rect>
+        </g>
+        <g fill="none" stroke-opacity="1">
+            <g style="mix-blend-mode: multiply">
+                <path
+                    d="M5,497.8125C392.5,497.8125,392.5,535.3125,780,535.3125"
+                    stroke="#1f77b4"
+                    stroke-width="89.375"
+                />
+                <title>Aromas → Fruits White Wine: 13</title>
+            </g>
+            <g style="mix-blend-mode: multiply">
+                <path d="M5,301.875C392.5,301.875,392.5,250.625,780,250.625" stroke="#1f77b4" stroke-width="41.25" />
+                <title>Aromas → Fruits Red Wine: 6</title>
+            </g>
+            <g style="mix-blend-mode: multiply">
+                <path
+                    d="M5,353.4375C392.5,353.4375,392.5,307.1875,780,307.1875"
+                    stroke="#1f77b4"
+                    stroke-width="61.875"
+                />
+                <title>Aromas → Floral: 9</title>
+            </g>
+            <g style="mix-blend-mode: multiply">
+                <path d="M5,418.75C392.5,418.75,392.5,377.5,780,377.5" stroke="#1f77b4" stroke-width="68.75" />
+                <title>Aromas → Vegetal: 10</title>
+            </g>
+            <g style="mix-blend-mode: multiply">
+                <path
+                    d="M5,169.6875C392.5,169.6875,392.5,149.6875,780,149.6875"
+                    stroke="#ff7f0e"
+                    stroke-width="20.625"
+                />
+                <title>Bouquet → Mineral: 3</title>
+            </g>
+            <g style="mix-blend-mode: multiply">
+                <path d="M5,114.6875C392.5,114.6875,392.5,3.4375,780,3.4375" stroke="#ff7f0e" stroke-width="6.875" />
+                <title>Bouquet → Yeast: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply">
+                <path d="M5,138.75C392.5,138.75,392.5,90,780,90" stroke="#ff7f0e" stroke-width="13.75" />
+                <title>Bouquet → Malolactic Fermentation: 2</title>
+            </g>
+            <g style="mix-blend-mode: multiply">
+                <path d="M5,241.875C392.5,241.875,392.5,451.25,780,451.25" stroke="#ff7f0e" stroke-width="68.75" />
+                <title>Bouquet → Oak Aging: 10</title>
+            </g>
+            <g style="mix-blend-mode: multiply">
+                <path d="M5,152.5C392.5,152.5,392.5,108.75,780,108.75" stroke="#ff7f0e" stroke-width="13.75" />
+                <title>Bouquet → Late Harvest / Botrytis: 2</title>
+            </g>
+            <g style="mix-blend-mode: multiply">
+                <path d="M5,121.5625C392.5,121.5625,392.5,15.3125,780,15.3125" stroke="#ff7f0e" stroke-width="6.875" />
+                <title>Bouquet → Fortified Wine: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply">
+                <path d="M5,128.4375C392.5,128.4375,392.5,27.1875,780,27.1875" stroke="#ff7f0e" stroke-width="6.875" />
+                <title>Bouquet → Aged White Wine: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply">
+                <path d="M5,193.75C392.5,193.75,392.5,178.75,780,178.75" stroke="#ff7f0e" stroke-width="27.5" />
+                <title>Bouquet → Aged Red Wine: 4</title>
+            </g>
+            <g style="mix-blend-mode: multiply">
+                <path d="M5,40.9375C392.5,40.9375,392.5,39.0625,780,39.0625" stroke="#2ca02c" stroke-width="6.875" />
+                <title>Faults → Trichloroanisole: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply">
+                <path d="M5,47.8125C392.5,47.8125,392.5,50.9375,780,50.9375" stroke="#2ca02c" stroke-width="6.875" />
+                <title>Faults → Oxygen: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply">
+                <path d="M5,54.6875C392.5,54.6875,392.5,62.8125,780,62.8125" stroke="#2ca02c" stroke-width="6.875" />
+                <title>Faults → Heat: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply">
+                <path d="M5,71.875C392.5,71.875,392.5,127.5,780,127.5" stroke="#2ca02c" stroke-width="13.75" />
+                <title>Faults → Volatile Acidity: 2</title>
+            </g>
+            <g style="mix-blend-mode: multiply">
+                <path d="M5,92.5C392.5,92.5,392.5,211.25,780,211.25" stroke="#2ca02c" stroke-width="27.5" />
+                <title>Faults → Sulfides: 4</title>
+            </g>
+            <g style="mix-blend-mode: multiply">
+                <path d="M5,61.5625C392.5,61.5625,392.5,74.6875,780,74.6875" stroke="#2ca02c" stroke-width="6.875" />
+                <title>Faults → Brett: 1</title>
+            </g>
+        </g>
+        <g>
+            <text x="776" y="3.4375" text-anchor="end">
+                <tspan
+                    alignment-baseline="middle"
+                    x="776"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                >
+                    Yeast
+                </tspan>
+            </text>
+            <text x="776" y="15.3125" text-anchor="end">
+                <tspan
+                    alignment-baseline="middle"
+                    x="776"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                >
+                    Fortified Wine
+                </tspan>
+            </text>
+            <text x="776" y="27.1875" text-anchor="end">
+                <tspan
+                    alignment-baseline="middle"
+                    x="776"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                >
+                    Aged White Wine
+                </tspan>
+            </text>
+            <text x="776" y="39.0625" text-anchor="end">
+                <tspan
+                    alignment-baseline="middle"
+                    x="776"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                >
+                    Trichloroanisole
+                </tspan>
+            </text>
+            <text x="776" y="50.9375" text-anchor="end">
+                <tspan
+                    alignment-baseline="middle"
+                    x="776"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                >
+                    Oxygen
+                </tspan>
+            </text>
+            <text x="776" y="62.8125" text-anchor="end">
+                <tspan
+                    alignment-baseline="middle"
+                    x="776"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                >
+                    Heat
+                </tspan>
+            </text>
+            <text x="776" y="74.6875" text-anchor="end">
+                <tspan
+                    alignment-baseline="middle"
+                    x="776"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                >
+                    Brett
+                </tspan>
+            </text>
+            <text x="776" y="90" text-anchor="end">
+                <tspan
+                    alignment-baseline="middle"
+                    x="776"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                >
+                    Malolactic Fermentation
+                </tspan>
+            </text>
+            <text x="776" y="108.75" text-anchor="end">
+                <tspan
+                    alignment-baseline="middle"
+                    x="776"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                >
+                    Late Harvest / Botrytis
+                </tspan>
+            </text>
+            <text x="776" y="127.5" text-anchor="end">
+                <tspan
+                    alignment-baseline="middle"
+                    x="776"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                >
+                    Volatile Acidity
+                </tspan>
+            </text>
+            <text x="776" y="149.6875" text-anchor="end">
+                <tspan
+                    alignment-baseline="middle"
+                    x="776"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                >
+                    Mineral
+                </tspan>
+            </text>
+            <text x="776" y="178.75" text-anchor="end">
+                <tspan
+                    alignment-baseline="middle"
+                    x="776"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                >
+                    Aged Red Wine
+                </tspan>
+            </text>
+            <text x="776" y="211.25" text-anchor="end">
+                <tspan
+                    alignment-baseline="middle"
+                    x="776"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                >
+                    Sulfides
+                </tspan>
+            </text>
+            <text x="776" y="250.625" text-anchor="end">
+                <tspan
+                    alignment-baseline="middle"
+                    x="776"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                >
+                    Fruits Red Wine
+                </tspan>
+            </text>
+            <text x="776" y="307.1875" text-anchor="end">
+                <tspan
+                    alignment-baseline="middle"
+                    x="776"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                >
+                    Floral
+                </tspan>
+            </text>
+            <text x="776" y="377.5" text-anchor="end">
+                <tspan
+                    alignment-baseline="middle"
+                    x="776"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                >
+                    Vegetal
+                </tspan>
+            </text>
+            <text x="776" y="451.25" text-anchor="end">
+                <tspan
+                    alignment-baseline="middle"
+                    x="776"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                >
+                    Oak Aging
+                </tspan>
+            </text>
+            <text x="9" y="71.875" text-anchor="start">
+                <tspan
+                    alignment-baseline="middle"
+                    x="9"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                >
+                    Faults
+                </tspan>
+            </text>
+            <text x="776" y="535.3125" text-anchor="end">
+                <tspan
+                    alignment-baseline="middle"
+                    x="776"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                >
+                    Fruits White Wine
+                </tspan>
+            </text>
+            <text x="9" y="193.75" text-anchor="start">
+                <tspan
+                    alignment-baseline="middle"
+                    x="9"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                >
+                    Bouquet
+                </tspan>
+            </text>
+            <text x="9" y="411.875" text-anchor="start">
+                <tspan
+                    alignment-baseline="middle"
+                    x="9"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold"
+                >
+                    Aromas
+                </tspan>
+            </text>
+        </g>
+        <g>
+            <text
+                x="782.5"
+                y="-4"
+                text-anchor="middle"
+                style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold"
+            >
+                Category
+            </text>
+            <text
+                x="2.5"
+                y="33.5"
+                text-anchor="middle"
+                style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold"
+            >
+                Root
+            </text>
+        </g>
+    </g>
+</svg>
